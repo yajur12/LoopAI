@@ -1,3 +1,7 @@
-fastapi==0.68.1
-uvicorn==0.15.0
-pydantic==1.8.2
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+pydantic==1.10.7
+python-multipart==0.0.6
+typing-extensions==4.5.0
+starlette==0.26.1
+aiofiles==23.1.0
